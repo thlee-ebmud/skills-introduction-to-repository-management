@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @thlee-ebmud
+/src/backend/database.py      @thlee-ebmud
+/src/backend/routers/auth.py  @thlee-ebmud
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @thlee-ebmud
